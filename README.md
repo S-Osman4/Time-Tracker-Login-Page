@@ -1,8 +1,12 @@
 # Time-Tracker-Login-Page
 
 ## Project Objective
-Build a responsive login page for a time tracking web app using HTML/CSS. Page should include username/password fields, branding elements, and be mobile-friendly.
-Find more information check [here.](https://techstarta.com/projects/login-page-for-a-time-tracking-web-app)
+Build a responsive login page for a time tracking web app using HTML/CSS. Page should include:
+* username/password fields
+*  branding elements
+*  be mobile-friendly.
+  
+Find more information [here.](https://techstarta.com/projects/login-page-for-a-time-tracking-web-app)
 
 ## Requirements
 1. Initialize a new project on your local machine
@@ -15,8 +19,11 @@ Find more information check [here.](https://techstarta.com/projects/login-page-f
 8. Host completed page on GitHub Pages or as a private gist
 9. Submit GitHub link when complete
 
-## Submission
-Github pages live deployment : https://s-osman4.github.io/Time-Tracker-Login-Page/
+### Project Development Process
+Technology Used - This project was developed using HTML and CSS.
+
+### Submission
+Github pages live deployment : [Click Here](https://s-osman4.github.io/Time-Tracker-Login-Page/)
 
 
 
